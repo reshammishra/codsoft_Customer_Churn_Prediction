@@ -22,8 +22,8 @@ An end-to-end Machine Learning project to predict whether a customer will churn 
 
 1. **Clone the repository:**
    ```bash
-   git clone <YOUR_REPOSITORY_URL>
-   cd "Customer Churn Prediction"
+   git clone https://github.com/reshammishra/codsoft_Customer_Churn_Prediction.git
+   cd codsoft_Customer_Churn_Prediction
    ```
 
 2. **Install dependencies:**
